@@ -1,0 +1,63 @@
+p {
+    color: #4A0404;
+    font-size: 80px;
+}
+
+#answer {
+    color: #4A0404;
+    font-size: 80px;
+    font-weight: bolder;
+}
+
+body {
+    background-color: #EADDCA;
+    position: relative;
+}
+
+br {
+    display: block;
+    content: ""; 
+    margin-top: 10px;
+}
+
+img {
+    position: absolute;
+    right: 20%;
+}
+
+#new-delhi {
+    width: 30%;
+}
+#pink {
+    width: 30%;
+}
+#inception {
+    width: 30%;
+    margin-bottom: 0px;
+}
+#haring {
+    width: 30%;
+    top: 50%;
+    bottom: 0px;
+    right: 20%;
+}
+#kipsbay {
+    width: 30%;
+    top: 50%;
+    bottom: 0px;
+    right: 30%;
+    margin: auto;
+}
+#battery {
+    width: 40%;
+    top: 50%;
+    bottom: 0px;
+    right: 10%;
+    margin: auto;
+}
+#taco {
+    width: 30%;
+    top: 55%;
+    bottom: 0px;
+    margin: auto;
+}

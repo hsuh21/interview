@@ -1,0 +1,31 @@
+a:link {
+    text-decoration: none;
+    color: #4A0404;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+a:visited {
+    color: #4A0404;
+}
+
+a:hover {
+    color: #833009;
+}
+
+
+body {
+    background-color: #EADDCA;
+    position: relative;
+}
+
+#space {
+    margin-right: 25px;
+}
+
+div {
+    position: absolute;
+    top: 50%;
+    margin-top: -50px;
+    margin-left: 5%;
+}
